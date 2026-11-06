@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>32768</length>                 
+      <used>1244</used>                     
+      <free>31524</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>2048</length>                 
+      <used>40</used>                     
+      <free>2008</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/william/MPLABProjects/atme/_build/atme/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__ATmega168PB__ -c -mcpu=ATmega168PB -x c -mdfp=/home/william/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles/atme_default_default_XC8_compile.dir/home/william/MPLABProjects/atme/main.c.o -c /home/william/MPLABProjects/atme/main.c",
+  "file": "/home/william/MPLABProjects/atme/main.c",
+  "output": "/home/william/MPLABProjects/atme/_build/atme/default/CMakeFiles/atme_default_default_XC8_compile.dir/home/william/MPLABProjects/atme/main.c.o"
+}
+]

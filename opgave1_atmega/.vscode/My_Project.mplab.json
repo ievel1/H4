@@ -1,0 +1,40 @@
+{
+    "version": "1.9",
+    "configurations": [
+        {
+            "name": "default",
+            "id": "conf1",
+            "device": "ATmega328PB",
+            "imagePath": "./out/My_Project/default.elf",
+            "tool": "mEDBG",
+            "packs": [
+                {
+                    "name": "ATmega_DFP",
+                    "vendor": "Microchip",
+                    "version": "3.6.299"
+                }
+            ],
+            "fileSet": "default",
+            "toolchain": "default-XC8"
+        }
+    ],
+    "propertyGroups": [
+        {
+            "name": "default-XC8",
+            "type": "toolchain",
+            "provider": "microchip.toolchains:xc8@4.00",
+            "properties": {}
+        }
+    ],
+    "fileSets": [
+        {
+            "name": "default",
+            "files": [
+                {
+                    "include": "**/*",
+                    "exclude": "**/@(build|_build|out|cmake|.vscode)/**/*"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/My_Project_default_default_XC8_compile.dir
+/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/My_Project_default_image_q8VrcTj6.dir
+/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/edit_cache.dir
+/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/rebuild_cache.dir

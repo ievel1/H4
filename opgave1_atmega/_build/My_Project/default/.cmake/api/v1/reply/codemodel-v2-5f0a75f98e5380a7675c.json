@@ -1,0 +1,70 @@
+{
+	"configurations" : 
+	[
+		{
+			"abstractTargets" : [],
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-9ad1a58d4644cf6543fa.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.24.0"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "My_Project_default_project",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "My_Project_default_default_XC8_compile::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-My_Project_default_default_XC8_compile-b3c0397c0f101d13aefe.json",
+					"name" : "My_Project_default_default_XC8_compile",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "My_Project_default_image_q8VrcTj6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-My_Project_default_image_q8VrcTj6-8148587dcf70417c66c9.json",
+					"name" : "My_Project_default_image_q8VrcTj6",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default",
+		"source" : "/home/william/MPLABProjects/opgave1_atmega/cmake/My_Project/default"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 9
+	}
+}

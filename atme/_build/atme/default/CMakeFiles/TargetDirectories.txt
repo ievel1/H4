@@ -1,0 +1,4 @@
+/home/william/MPLABProjects/atme/_build/atme/default/CMakeFiles/atme_default_default_XC8_compile.dir
+/home/william/MPLABProjects/atme/_build/atme/default/CMakeFiles/atme_default_image_coy9qmUS.dir
+/home/william/MPLABProjects/atme/_build/atme/default/CMakeFiles/edit_cache.dir
+/home/william/MPLABProjects/atme/_build/atme/default/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="/home/william/MPLABProjects/atme/out/atme/default.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>16384</length>                 
+      <used>4358</used>                     
+      <free>12026</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>1024</length>                 
+      <used>397</used>                     
+      <free>627</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

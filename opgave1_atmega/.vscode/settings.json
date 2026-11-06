@@ -1,0 +1,39 @@
+{
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/My_Project/default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "/opt/microchip/xc8/v4.00/bin/xc8-clangd",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "cmake.sourceDirectory": "/home/william/MPLABProjects/opgave1_atmega/cmake/My_Project/default",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ],
+    "mplab.ioview.columnHeaders": {
+        "My_Project-default": [
+            "Name",
+            "Address",
+            "Description",
+            "Decimal",
+            "Value",
+            "Bits"
+        ]
+    },
+    "mplab.ioview.columnWidths": {
+        "My_Project-default": [
+            100,
+            100,
+            100,
+            100,
+            100,
+            600
+        ]
+    },
+    "mplab.ioview.taggedNodes": {
+        "My_Project-default": []
+    }
+}

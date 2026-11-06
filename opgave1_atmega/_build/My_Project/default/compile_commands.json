@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=/home/william/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c.o -c /home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c",
+  "file": "/home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c",
+  "output": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c.o"
+},
+{
+  "directory": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=/home/william/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o -c /home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c",
+  "file": "/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c",
+  "output": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o"
+},
+{
+  "directory": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default",
+  "command": "/opt/microchip/xc8/v4.00/bin/xc8-cc -DXPRJ_default=default -D__ATmega328PB__ -c -mcpu=ATmega328PB -x c -mdfp=/home/william/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/main.c.o -c /home/william/MPLABProjects/opgave1_atmega/main.c",
+  "file": "/home/william/MPLABProjects/opgave1_atmega/main.c",
+  "output": "/home/william/MPLABProjects/opgave1_atmega/_build/My_Project/default/CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/main.c.o"
+}
+]

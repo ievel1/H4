@@ -1,0 +1,22 @@
+# ninja log v7
+1	22	1793883258716232170	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/main.c.o	81c827ce96842995
+22	31	1793883258736356084	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	21	1793883164792716788	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c.o	aac4fb4bbee038ce
+1	22	1793883258715355940	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+1	27	1793958876722853490	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+1	27	1793958876723656866	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/main.c.o	81c827ce96842995
+0	28	1793958876721853415	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/Timer/Timer.c.o	aac4fb4bbee038ce
+28	45	1793958876750174677	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	24	1793962270886993182	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/main.c.o	81c827ce96842995
+1	30	1793962270886054325	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+30	41	1793962270915054696	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	23	1793962378517436923	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+23	34	1793962378539437206	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+0	26	1793962468906602164	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+26	37	1793962468932602499	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	27	1793962503760052336	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+27	37	1793962503786052672	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	25	1793962578855023708	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+26	36	1793962578880024032	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09
+1	25	1793962646116895239	CMakeFiles/My_Project_default_default_XC8_compile.dir/home/william/MPLABProjects/opgave1_atmega/Src/UART/uart.c.o	5d3086598305a82c
+25	36	1793962646140895550	/home/william/MPLABProjects/opgave1_atmega/out/My_Project/default.elf	1ddf0cad7dddad09

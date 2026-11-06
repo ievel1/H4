@@ -1,0 +1,18 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/mplab"
+		},
+		{
+			"name": "atme",
+			"path": "."
+		}
+	],
+	"settings": {
+		"mplab.clangd.compileCommandsDir": "${userHome}/MPLABProjects/atme/_build/atme/default",
+		"mplab.clangd.arguments": [
+			"--header-insertion=never"
+		],
+		"mplab.clangd.path": "/opt/microchip/xc8/v4.00/bin/xc8-clangd"
+	}
+}

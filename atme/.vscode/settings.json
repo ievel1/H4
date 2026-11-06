@@ -1,0 +1,16 @@
+{
+    "cmake.sourceDirectory": "/home/william/MPLABProjects/atme/cmake/atme/default",
+    "mplab.clangd.compileCommandsDir": "${workspaceFolder}/_build/atme/default",
+    "mplab.clangd.arguments": [
+        "--header-insertion=never"
+    ],
+    "mplab.clangd.path": "/opt/microchip/xc8/v4.00/bin/xc8-clangd",
+    "C_Cpp.intelliSenseEngine": "disabled",
+    "memory-inspector.debugTypes": [
+        "arm-debugger",
+        "embedded-debug",
+        "gdb",
+        "gdbtarget",
+        "mplab-core-da"
+    ]
+}

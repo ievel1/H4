@@ -1,0 +1,7 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/william/MPLABProjects/atme/_build/atme/default/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
